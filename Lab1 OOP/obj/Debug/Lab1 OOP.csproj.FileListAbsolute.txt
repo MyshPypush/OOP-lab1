@@ -1,0 +1,35 @@
+C:\Users\idavl\source\repos\Lab1 OOP\Lab1 OOP\bin\Debug\Lab1 OOP.exe.config
+C:\Users\idavl\source\repos\Lab1 OOP\Lab1 OOP\bin\Debug\Lab1 OOP.exe
+C:\Users\idavl\source\repos\Lab1 OOP\Lab1 OOP\bin\Debug\Lab1 OOP.pdb
+C:\Users\idavl\source\repos\Lab1 OOP\Lab1 OOP\obj\Debug\Lab1 OOP.csproj.AssemblyReference.cache
+C:\Users\idavl\source\repos\Lab1 OOP\Lab1 OOP\obj\Debug\Lab1 OOP.csproj.SuggestedBindingRedirects.cache
+C:\Users\idavl\source\repos\Lab1 OOP\Lab1 OOP\obj\Debug\Lab1_OOP.Form1.resources
+C:\Users\idavl\source\repos\Lab1 OOP\Lab1 OOP\obj\Debug\Lab1_OOP.Properties.Resources.resources
+C:\Users\idavl\source\repos\Lab1 OOP\Lab1 OOP\obj\Debug\Lab1 OOP.csproj.GenerateResource.cache
+C:\Users\idavl\source\repos\Lab1 OOP\Lab1 OOP\obj\Debug\Lab1 OOP.csproj.CoreCompileInputs.cache
+C:\Users\idavl\source\repos\Lab1 OOP\Lab1 OOP\obj\Debug\Lab1 OOP.exe
+C:\Users\idavl\source\repos\Lab1 OOP\Lab1 OOP\obj\Debug\Lab1 OOP.pdb
+C:\Users\idavl\source\repos\Lab1 OOP\Lab1 OOP\obj\Debug\Lab1_OOP.Form2.resources
+C:\Users\idavl\source\repos\Lab1 OOP\Lab1 OOP\obj\Debug\Lab1_OOP.Form3.resources
+C:\Users\idavl\source\repos\Lab1 OOP\Lab1 OOP\obj\Debug\Lab1_OOP.Form4.resources
+C:\Users\idavl\source\repos\Lab1 OOP\Lab1 OOP\obj\Debug\Lab1_OOP.Form5.resources
+C:\Users\idavl\source\repos\Lab1 OOP\Lab1 OOP\obj\Debug\Lab1_OOP.FormMenu.resources
+C:\Users\idavl\source\repos\Lab1 OOP\Lab1 OOP\obj\Debug\Lab1_OOP.Form5_1.resources
+C:\Users\idavl\source\repos\Lab1 OOP\Lab1 OOP\obj\Debug\Lab1_OOP.Form3_1.resources
+D:\КАИ\ООп\Lab1 OOP\bin\Debug\Lab1 OOP.exe.config
+D:\КАИ\ООп\Lab1 OOP\bin\Debug\Lab1 OOP.exe
+D:\КАИ\ООп\Lab1 OOP\bin\Debug\Lab1 OOP.pdb
+D:\КАИ\ООп\Lab1 OOP\obj\Debug\Lab1 OOP.csproj.AssemblyReference.cache
+D:\КАИ\ООп\Lab1 OOP\obj\Debug\Lab1 OOP.csproj.SuggestedBindingRedirects.cache
+D:\КАИ\ООп\Lab1 OOP\obj\Debug\Lab1_OOP.Form1.resources
+D:\КАИ\ООп\Lab1 OOP\obj\Debug\Lab1_OOP.Form2.resources
+D:\КАИ\ООп\Lab1 OOP\obj\Debug\Lab1_OOP.Form3.resources
+D:\КАИ\ООп\Lab1 OOP\obj\Debug\Lab1_OOP.Form4.resources
+D:\КАИ\ООп\Lab1 OOP\obj\Debug\Lab1_OOP.Form5.resources
+D:\КАИ\ООп\Lab1 OOP\obj\Debug\Lab1_OOP.Form5_1.resources
+D:\КАИ\ООп\Lab1 OOP\obj\Debug\Lab1_OOP.FormMenu.resources
+D:\КАИ\ООп\Lab1 OOP\obj\Debug\Lab1_OOP.Properties.Resources.resources
+D:\КАИ\ООп\Lab1 OOP\obj\Debug\Lab1 OOP.csproj.GenerateResource.cache
+D:\КАИ\ООп\Lab1 OOP\obj\Debug\Lab1 OOP.csproj.CoreCompileInputs.cache
+D:\КАИ\ООп\Lab1 OOP\obj\Debug\Lab1 OOP.exe
+D:\КАИ\ООп\Lab1 OOP\obj\Debug\Lab1 OOP.pdb
